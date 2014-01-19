@@ -145,6 +145,7 @@ php::ini { 'php.ini':
     'display_errors = On',
     'error_reporting = -1',
     'date.timezone = "Europe/London"',
+    'memory_limit = 512M',
     'sendmail_path = "/usr/bin/env /usr/local/bin/catchmail"',
     'xdebug.default_enable = 1',
     'xdebug.remote_autostart = 0',
